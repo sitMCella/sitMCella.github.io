@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.2d2f6a64.css",
-    "main.js": "/static/js/main.865e316e.js",
+    "main.js": "/static/js/main.24d2d18c.js",
     "static/js/453.99b98e84.chunk.js": "/static/js/453.99b98e84.chunk.js",
-    "static/media/api_connection_request.jpg": "/static/media/api_connection_request.85007dd5ffb7b80941f2.jpg",
-    "static/media/document_versions.jpg": "/static/media/document_versions.0e8eaf9a47d1bc3c29e6.jpg",
-    "static/media/logic_app_connection.jpg": "/static/media/logic_app_connection.80a62eb63955ef2beda6.jpg",
-    "static/media/api_connection.jpg": "/static/media/api_connection.ce94ccb1caa93cdb54f8.jpg",
-    "static/media/simple_cad.jpg": "/static/media/simple_cad.35614b9e6f276a4fb780.jpg",
-    "static/media/book_advisor_map.jpg": "/static/media/book_advisor_map.ade95f43988eef9e4e95.jpg",
-    "static/media/active_recall.jpg": "/static/media/active_recall.25cf9564b3544bf93334.jpg",
-    "static/media/book_advisor_scene.jpg": "/static/media/book_advisor_scene.df6bc05bec5be76f720b.jpg",
-    "static/media/learn_process.jpg": "/static/media/learn_process.feea4a184cd5b6723824.jpg",
+    "static/media/document_versions.jpeg": "/static/media/document_versions.272085739383f2be923c.jpeg",
+    "static/media/api_connection_request.jpeg": "/static/media/api_connection_request.8894200012360116f2a0.jpeg",
+    "static/media/book_advisor_map.jpeg": "/static/media/book_advisor_map.beb060066ee21769b4b7.jpeg",
+    "static/media/logic_app_connection.jpeg": "/static/media/logic_app_connection.32714921a634808353a5.jpeg",
+    "static/media/api_connection.jpeg": "/static/media/api_connection.e9efe5893ed6ce56031d.jpeg",
+    "static/media/simple_cad.jpeg": "/static/media/simple_cad.cf15067ac4c22a7bb022.jpeg",
+    "static/media/active_recall.jpeg": "/static/media/active_recall.0d69df1f78e27a94fa82.jpeg",
+    "static/media/book_advisor_scene.jpeg": "/static/media/book_advisor_scene.6e52111922869895e6d4.jpeg",
+    "static/media/learn_process.jpeg": "/static/media/learn_process.73ba0f464dcf9d269cab.jpeg",
     "index.html": "/index.html",
     "main.2d2f6a64.css.map": "/static/css/main.2d2f6a64.css.map",
-    "main.865e316e.js.map": "/static/js/main.865e316e.js.map",
+    "main.24d2d18c.js.map": "/static/js/main.24d2d18c.js.map",
     "453.99b98e84.chunk.js.map": "/static/js/453.99b98e84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d2f6a64.css",
-    "static/js/main.865e316e.js"
+    "static/js/main.24d2d18c.js"
   ]
 }
