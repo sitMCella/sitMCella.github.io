@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://sitmcella.github.io/sitemap.xml
+Sitemap: https://sitmcella.github.io/sitemap.txt
