@@ -10,7 +10,7 @@ pre[class*="language-"] {
 	background: none;
 	text-shadow: 0 1px white;
 	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-	font-size: 1em;
+	font-size: 0.875rem;
 	text-align: left;
 	white-space: pre;
 	word-spacing: normal;
@@ -26,6 +26,34 @@ pre[class*="language-"] {
 	-moz-hyphens: none;
 	-ms-hyphens: none;
 	hyphens: none;
+}
+
+@media (min-width: 976px) {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		font-size: 0.938rem;
+	}
+}
+
+@media (min-width: 1440px) {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		font-size: 1rem;
+	}
+}
+
+@media (min-width: 1536px) {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		font-size: 1.063rem;
+	}
+}
+
+@media (min-width: 1920px) {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		font-size: 1.125rem;
+	}
 }
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
